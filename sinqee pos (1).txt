@@ -1,0 +1,15 @@
+
+Clear component: DF2A 4A8C E015 29AB FEBA 2CFE C779 C8D0 
+Encrypted component: UCA91 C74A CED0 A633 08CB 269D 6D14 4BD7 
+Key check value: 624370
+
+
+
+Clear component: 7CFB 4358 2313 F2E0 D319 25F2 4325 BA6E 
+Encrypted component: UEB06 1237 12A9 EA45 B21E 70CD FCF5 B345 
+Key check value: 7E945D
+
+
+
+Encrypted key: U746A A0D3 F4B8 01F1 A2F1 520A ACE5 AB6B 
+Key check value: 297745
