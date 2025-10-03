@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bibish21 (Biniyam Yosef)
 - 👀 I’m interested in advanced programming.
-- 🌱 I’m currently learning react frameworks and phyton
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working react frameworks and phyton
 - 📫 You can contact me on telegram at @flashBini
 
 <!---
