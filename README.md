@@ -3,7 +3,7 @@
 
 🚀 **Software Developer | Payment Systems Integrator | Backend Engineer**
 
-I’m a results-driven developer passionate about building **secure, scalable, and real-world financial solutions**. My work bridges technology and reliability — from online donation systems to SDKs and payment gateways — always with an eye on security, performance, and clean code.
+I’m a results-driven developer passionate about building **secure, scalable, and real-world financial solutions**. My work bridges technology and reliability — from online donation systems to SDKs and payment gateways — always with an eye on security, performance, and clean code.   
 
 ---
 
